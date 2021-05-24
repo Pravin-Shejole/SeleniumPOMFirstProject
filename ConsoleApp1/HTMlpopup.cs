@@ -26,7 +26,7 @@ namespace ConsoleApp1
         {
 
             HTmlpopuplinkclick.Clicks();
-            switchtoalertpopup.
+            switchtoalertpopup.Clicks();
 
         }
     }
